@@ -1,4 +1,4 @@
-<h1>Portilio actvity: Draftt a proffesional statement</h1>
+<h1>Portilio actvity: Draft a proffesional statement</h1>
 
 
 <h2>Description</h2>
